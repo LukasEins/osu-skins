@@ -1,2 +1,0 @@
-# osu-skins
-osu skins
